@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!*.php
+!*.ico
+!*.png
+!*.md
